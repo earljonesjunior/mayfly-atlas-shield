@@ -26,3 +26,6 @@ fp-info-cache
 *.csv
 
 /mayfly-atlas-shield-backups
+\#auto_saved_files\#
+*.kicad_prl
+*.kicad_prl
